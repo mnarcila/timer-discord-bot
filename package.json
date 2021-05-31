@@ -1,0 +1,19 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "description": "timer for discord",
+  "main": "server.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "timer",
+    "discord"
+  ],
+  "author": "mnarcila",
+  "license": "ISC"
+}
